@@ -1,5 +1,7 @@
-##PowerBI-Exploracoes-Diversas 🚀📊
+## PowerBI-Exploracoes-Diversas 🚀📊
+
 Descrição:
+
 Este repositório abriga uma coleção abrangente de trabalhos, projetos e experimentos relacionados ao Power BI, visando explorar diversas aplicações e abordagens dessa poderosa ferramenta de business intelligence. Aqui, você encontrará uma variedade de conjuntos de dados, dashboards e relatórios que demonstram a versatilidade do Power BI em diferentes contextos e setores.
 
 Estrutura do Repositório:
